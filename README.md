@@ -120,7 +120,7 @@ Make sure the following are installed:
 ## 2. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sandipr773/meta-task-manager.git
 cd meta-task-manager
 ```
 
